@@ -73,10 +73,9 @@ uv run -m srl.main -m \
 # Citing SRL
 
 ```bibtex
-@article{nguimatsia2026survival,
+@inproceedings{tiofacksurvival,
   title={Survival Reinforcement Learning: Toward Scalable Self-Supervised RL},
-  author={Nguimatsia-Tiofack, Franki and Schramm, Fabian and Hellard, Th{\'e}otime Le and Carpentier, Justin},
-  journal={arXiv preprint arXiv:2605.31273},
-  year={2026}
+  author={Tiofack, Franki Nguimatsia and Schramm, Fabian and Le Hellard, Theotime and Carpentier, Justin},
+  booktitle={Nineteenth European Workshop on Reinforcement Learning}
 }
 ```
