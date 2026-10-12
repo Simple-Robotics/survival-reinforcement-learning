@@ -76,6 +76,7 @@ uv run -m srl.main -m \
 @inproceedings{tiofacksurvival,
   title={Survival Reinforcement Learning: Toward Scalable Self-Supervised RL},
   author={Tiofack, Franki Nguimatsia and Schramm, Fabian and Le Hellard, Theotime and Carpentier, Justin},
-  booktitle={Nineteenth European Workshop on Reinforcement Learning}
+  booktitle={Nineteenth European Workshop on Reinforcement Learning},
+  year={2026}
 }
 ```
